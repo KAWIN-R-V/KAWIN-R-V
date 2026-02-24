@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kawin R V</h1>
-<h3 align="center">Software Developer | Java Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Developer | Java & Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:kawin05rv@gmail.com"><strong>📧 kawin05rv@gmail.com</strong></a>
@@ -51,11 +51,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -69,8 +73,8 @@ To contribute to impactful software projects by applying strong problem-solving 
 ## 🤝 Let's Connect
 
 - 📧 Email: **kawin05rv@gmail.com**
-- 🌍 India
+- 🌍 India  
 
 ---
 
-⭐️ *“Code. Learn. Build. Improve.”*
+⭐️ *"Code. Learn. Build. Improve."*
